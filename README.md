@@ -1,5 +1,5 @@
 # HW8OOP
-OOP Assignment with Star Wars Starfighters and Pilots
+Intro to Computer Science OOP Assignment with Star Wars Starfighters and Pilots
 
 Assignment Instructions are in HW8_OOP3.pptx
 
